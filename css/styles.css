@@ -1,0 +1,63 @@
+img.mon-compte {
+    width: 79px;
+}
+
+
+.item-nav {
+    text-align: center;
+}
+
+img.navbar-brand {
+    margin-left: 35px;
+}
+
+.bg-black {
+    background-color: #202020;
+}
+
+nav.navbar.navbar-toggleable-md.navbar-light.bg-faded {
+    padding: 35px;
+    color: white;
+}
+
+a.btn {
+    padding: 13px 20px;
+    margin-left: 40px;
+    margin-top: 26px;
+
+}
+
+.btn-outline-orange {
+    color: #e89c18!important;
+    border-color: #e89c18;
+}
+
+img.logo {
+    height: 30px;
+}
+
+.item-nav a {
+    color: white;
+}
+
+ul.second-nav {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.3em;
+    margin: 0px;
+}
+
+.second-nav li.nav-item {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.second-nav li.nav-item a{
+    color: white;
+}
+
+.bg-gris {
+    background-color: #2e2e2e;
+}
