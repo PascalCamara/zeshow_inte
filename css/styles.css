@@ -104,8 +104,7 @@ a.btn-search {
 }
 
 .section {
-    height: 350px;
-    padding: 30px;
+    padding: 65px;
 }
 
 .section p.h2 {
@@ -119,4 +118,73 @@ a.btn-search {
     height: 130px;
     margin: 0px 50px;
     background-color: white;
+}
+
+div.sec-header{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border: 1px solid #cacaca;
+    padding: 20px;
+    font-weight: 400;
+
+}
+
+.sec-item {
+    width: 80%;
+    margin: auto;
+    border: 1px solid #cacaca;
+    padding: 20px;
+    font-size: 1.3em;
+    position: relative;
+}
+
+.sec-item p {
+    margin-bottom: 0;
+}
+
+
+p.sec-plus {
+    position: absolute;
+    right: 25px;
+    top: 11px;
+    font-weight: bold;
+    font-size: 1.4em;
+    color: #bbbbbb;
+}
+
+.index-artiste p.h4 {
+    margin-top: 23px;
+}
+
+.index-artiste img {
+    width: 130px;
+    margin: auto;
+    display: block;
+}
+
+
+.section.index-artiste.container {
+    border-top: 2px solid;
+}
+
+
+.index-artiste .row {
+    padding: 40px 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: 30px 0px;
+    border-bottom: 1px solid #cacaca;
+}
+
+footer {
+    background-color: #2e2e2e;
+    color: white;
+    padding: 60px 0px;
+    width: 100%;
+}
+
+footer li {
+    list-style: none;
+    padding: 4px;
 }

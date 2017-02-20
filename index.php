@@ -33,4 +33,85 @@
 
     </div>
 
+
+
+    <div class="section">
+
+        <div class="sec-header">
+            <p class="h3">Parcourez nos offres selon les métiers</p>
+        </div>
+        <div class="sec-item">
+            <p class="sec-p">Artistes de cirque</p>
+            <p class="sec-plus">+</p>
+        </div>
+        <div class="sec-item">
+            <p class="sec-p">Chanteur/euse</p>
+            <p class="sec-plus">+</p>
+        </div>
+        <div class="sec-item">
+            <p class="sec-p">Comédien/ne</p>
+            <p class="sec-plus">+</p>
+        </div>
+        <div class="sec-item">
+            <p class="sec-p">Danceur/seuse</p>
+            <p class="sec-plus">+</p>
+        </div>
+        <div class="sec-item">
+            <p class="sec-p">Musicien/ne</p>
+            <p class="sec-plus">+</p>
+        </div>
+
+    </div>
+
+
+    <div class="section index-artiste container">
+
+        <div class="row">
+
+            <div class="col-md-4 col-sm-12">
+                <img src="./img/acount.png" alt="">
+            </div>
+
+            <div class="col-md-8 col-sm-12">
+                <p class="h4">
+                    Nom Prénom
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-8 col-sm-12">
+                <p class="h4">
+                    Nom Prénom
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                </p>
+            </div>
+
+            <div class="col-md-4 col-sm-12">
+                <img src="./img/acount.png" alt="">
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 col-sm-12">
+                <img src="./img/acount.png" alt="">
+            </div>
+
+            <div class="col-md-8 col-sm-12">
+                <p class="h4">
+                    Nom Prénom
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                </p>
+            </div>
+        </div>
+    </div>
 <?php  include "layouts/footer.php"; ?>
