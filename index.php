@@ -1,5 +1,13 @@
 <?php  include "layouts/header.php"; ?>
 
+    <style>
+        .index-artiste .row:hover {
+            background-color: #c3c3c3;
+            transition: all 1s;
+            cursor: pointer;
+        }
+    </style>
+
     <div class="jom-index" id="jom-index">
         <div class="container">
             <form action="" class="form-index">
@@ -114,4 +122,13 @@
             </div>
         </div>
     </div>
+
+
+    <script>
+        document.querySelector(".index-artiste .row").addEventListener("click", function() {
+            var url = "http://" + window.location.host + "" + window.location.pathname + "artiste.php";
+            console.log(url);
+            window.location.href = url;
+        });
+    </script>
 <?php  include "layouts/footer.php"; ?>

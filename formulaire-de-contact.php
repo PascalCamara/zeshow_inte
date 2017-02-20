@@ -159,7 +159,7 @@
                             <div class="form-group">
                                 <textarea class="form-control" id="exampleTextarea" rows="15" placeholder="Votre message"></textarea>
                             </div>
-                            <a href="#" class="btn-connexion">Connexion</a>
+                            <a href="#" class="btn-connexion">Envoyer</a>
                         </div>
                     </div>
                 </div>
