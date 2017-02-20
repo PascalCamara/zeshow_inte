@@ -61,3 +61,62 @@ ul.second-nav {
 .bg-gris {
     background-color: #2e2e2e;
 }
+
+.element-form-index {
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+form.form-index {
+    text-align: center;
+}
+
+input.element-form-index {
+    border: none;
+    padding: 15px;
+    font-size: 0.9em;
+    border-radius: 10px;
+    width: 300px;
+    font-weight: 100;
+}
+
+a.btn-search {
+    color: white;
+    font-weight: 100;
+    background: #585858;
+    padding: 15px;
+    font-size: 0.9em;
+    border-radius: 10px;
+}
+
+.jom-index{
+    height: 400px;
+    padding-top: 156px;
+    margin-bottom: 0;
+
+
+}
+
+#jom-index{
+    background-image: url(../img/bg-jom.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.section {
+    height: 350px;
+    padding: 30px;
+}
+
+.section p.h2 {
+    text-align: center;
+    font-weight: 400;
+}
+
+.item-service {
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    margin: 0px 50px;
+    background-color: white;
+}
