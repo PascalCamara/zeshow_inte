@@ -30,21 +30,46 @@
             border-bottom: 2px solid #adccbb;
         }
 
+        .form-connexion .form-group {
+            width: 80%;
+            margin: 40px auto;
+        }
+
         a:hover {
             text-decoration: none;
         }
+
+        .form-connexion input {
+            padding: 20px;
+            border: solid grey;
+        }
     </style>
 
-<div class="connexion-box">
+    <div class="connexion-box">
 
-    <div class="container connexion-container">
+        <div class="container connexion-container">
 
-        <p class="h2">Parmis nous</p>
+            <p class="h2">Connexion</p>
 
-        <a href="#" class="btn-connexion">Inscription</a>
-        <a href="#" class="btn-connexion">Connexion</a>
+            <form action="" class="form-connexion">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Email">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Mot de passe">
+                                </div>
+
+                            <a href="#" class="btn-connexion">Connexion</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+        </div>
 
     </div>
-
-</div>
 <?php  include "layouts/footer.php"; ?>
