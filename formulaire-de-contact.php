@@ -67,6 +67,11 @@
         textarea#exampleTextarea {
             border: solid grey;
         }
+
+        a.btn-connexion:hover {
+            background-color: #359060;
+            transition: all 1s;
+        }
     </style>
 
     <div class="connexion-box">

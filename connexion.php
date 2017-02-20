@@ -43,6 +43,11 @@
             padding: 20px;
             border: solid grey;
         }
+
+        a.btn-connexion:hover {
+            background-color: #359060;
+            transition: all 1s;
+        }
     </style>
 
     <div class="connexion-box">
@@ -63,7 +68,7 @@
                                     <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Mot de passe">
                                 </div>
 
-                            <a href="#" class="btn-connexion">Connexion</a>
+                            <a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . "/message-envoyer.php"; ?>" class="btn-connexion">Connexion</a>
                         </div>
                     </div>
                 </div>

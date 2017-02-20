@@ -33,6 +33,11 @@
         a:hover {
             text-decoration: none;
         }
+
+        a.btn-connexion:hover {
+            background-color: #359060;
+            transition: all 1s;
+        }
     </style>
 
 <div class="connexion-box">
@@ -42,7 +47,7 @@
         <p class="h2">Parmis nous</p>
 
         <a href="#" class="btn-connexion">Inscription</a>
-        <a href="#" class="btn-connexion">Connexion</a>
+        <a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . "/connexion.php"; ?>" class="btn-connexion">Connexion</a>
 
     </div>
 

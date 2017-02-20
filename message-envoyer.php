@@ -37,6 +37,11 @@
         img.message-envoyer-picto {
             margin: 38px;
         }
+
+        a.btn-connexion:hover {
+            background-color: #359060;
+            transition: all 1s;
+        }
     </style>
 
     <div class="connexion-box">
@@ -46,7 +51,7 @@
             <p class="h2">Merci, votre message à bien été envoyé</p>
 
             <img src="./img/envoyer.png" class="message-envoyer-picto" alt="">
-            <a href="#" class="btn-connexion">Revenir à la page de résultat</a>
+            <a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>" class="btn-connexion">Revenir à la page de résultat</a>
 
         </div>
 
