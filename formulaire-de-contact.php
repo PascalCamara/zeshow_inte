@@ -164,7 +164,7 @@
                             <div class="form-group">
                                 <textarea class="form-control" id="exampleTextarea" rows="15" placeholder="Votre message"></textarea>
                             </div>
-                            <a href="#" class="btn-connexion">Envoyer</a>
+                            <a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']) . "/connexion-register.php"; ?>" class="btn-connexion">Envoyer</a>
                         </div>
                     </div>
                 </div>
