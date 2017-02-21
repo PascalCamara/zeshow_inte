@@ -12,7 +12,7 @@
         <div class="container">
             <form action="" class="form-index">
                 <input type="text" placeholder="Mots clés" class="element-form-index">
-                <input type="text" placeholder="Villen Code postal" class="element-form-index">
+                <input type="text" placeholder="Ville, Code postal" class="element-form-index">
                 <a class="btn-search" href="#">Rechercher</a>
             </form>
         </div>

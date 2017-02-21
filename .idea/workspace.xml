@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5fe2c15-62fe-422c-a348-b2972cac2286" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/formulaire-de-contact.php" afterPath="$PROJECT_DIR$/formulaire-de-contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="zeshow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formulaire-de-contact.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formulaire-de-contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/formulaire-de-contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
+            <state relative-caret-position="1500">
               <caret line="166" column="136" selection-start-line="166" selection-start-column="136" selection-end-line="166" selection-end-column="136" />
               <folding>
                 <element signature="e#2486#5298#0#HTML" expanded="false" />
@@ -128,12 +128,12 @@
         <option value="$PROJECT_DIR$/layouts/header.php" />
         <option value="$PROJECT_DIR$/layouts/footer.php" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/connexion-register.php" />
         <option value="$PROJECT_DIR$/connexion.php" />
         <option value="$PROJECT_DIR$/message-envoyer.php" />
         <option value="$PROJECT_DIR$/artiste.php" />
         <option value="$PROJECT_DIR$/formulaire-de-contact.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -308,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487623048224</updated>
       <workItem from="1487623049546" duration="4901000" />
-      <workItem from="1487629179065" duration="8060000" />
+      <workItem from="1487629179065" duration="8317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12961000" />
+    <option name="totallyTimeSpent" value="13218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="102" y="22" width="1577" height="977" extended-state="0" />
@@ -420,22 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connexion-register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="49" column="116" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/artiste.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
@@ -457,11 +441,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/formulaire-de-contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
+        <state relative-caret-position="1500">
           <caret line="166" column="136" selection-start-line="166" selection-start-column="136" selection-end-line="166" selection-end-column="136" />
           <folding>
             <element signature="e#2486#5298#0#HTML" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion-register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="49" column="116" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
